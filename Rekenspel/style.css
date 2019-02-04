@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'myFont';
+  src: url(fonts/gm.ttf) format("truetype");
+}
+body{
+  font-family: myFont;
+  font-size: 200%;
+  text-align: center;
+  display: block;
+  margin:auto;
+  background-color: white;
+  padding: 20px;
+  border: 4px green dashed;
+  border-radius: 15px;
+  background-image: url("img2.jpg");
+}
